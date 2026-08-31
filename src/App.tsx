@@ -1,4 +1,6 @@
-import Sidebar from "./components/Sidebar"
+
+import Sidebar from "./components/Sidebar";
+
 
 
 function App() {
@@ -10,4 +12,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
